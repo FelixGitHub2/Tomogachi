@@ -1,0 +1,15 @@
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\bin\Debug\net6.0\Tomogachi.exe
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\bin\Debug\net6.0\Tomogachi.deps.json
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\bin\Debug\net6.0\Tomogachi.runtimeconfig.json
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\bin\Debug\net6.0\Tomogachi.dll
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\bin\Debug\net6.0\Tomogachi.pdb
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.csproj.AssemblyReference.cache
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.AssemblyInfoInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.AssemblyInfo.cs
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.csproj.CoreCompileInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.dll
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\refint\Tomogachi.dll
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.pdb
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\Tomogachi.genruntimeconfig.cache
+C:\Users\felix.elliot\Documents\Programering 1\Tomogachi\Tomogachi\obj\Debug\net6.0\ref\Tomogachi.dll
