@@ -1,5 +1,5 @@
-﻿
-Console.WriteLine("lol");
+﻿Tamagotchi tama = new();
+
 
 
 Console.ReadLine();
